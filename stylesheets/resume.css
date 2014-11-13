@@ -47,12 +47,12 @@ with a new rule targeted to our last section. This way, each
 section still has a spacing, and yet it does not break our layout.
 */
 }
-p{
+p {
   font-size: 12px;
   color: black;
 }
 
-#headerm{
+#headerm {
   color: rgb(0,0,255);
   width: 100%;
   text-align: center;
